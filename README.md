@@ -103,11 +103,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SujanAdhikari&show_icons=true&theme=react" alt="Sujan's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tatkaal&show_icons=true&theme=react" alt="Sujan's GitHub stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujanAdhikari&layout=compact&theme=react" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatkaal&layout=compact&theme=react" alt="Top Langs"/>
 </p>
 
 ---
