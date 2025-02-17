@@ -1,11 +1,9 @@
-## Hi there 👋
-
 <!-- Banner / Hero Section -->
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
 </p>
 <h1 align="center">
-  Hey there, I'm <strong>Sujan Adhikari</strong>!
+  Hey there, I'm <strong>Sujan</strong>!
 </h1>
 <p align="center">
   <em>Senior AI Engineer @ <strong>Telemus AI</strong></em>
