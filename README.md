@@ -11,8 +11,8 @@
 
 <!-- Profile Visitors Badge -->
 <p align="center">
-  <a href="https://github.com/SujanAdhikari">
-    <img src="https://komarev.com/ghpvc/?username=SujanAdhikari&color=brightgreen" alt="profile visits"/>
+  <a href="https://github.com/tatkaal">
+    <img src="https://komarev.com/ghpvc/?username=tatkaal&color=brightgreen" alt="profile visits"/>
   </a>
 </p>
 
